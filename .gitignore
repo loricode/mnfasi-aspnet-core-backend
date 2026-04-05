@@ -1,1 +1,5 @@
-/SecurityWebApi/bin/**/**/**
+bin/
+obj/
+.vs/
+*.user
+*.suo
