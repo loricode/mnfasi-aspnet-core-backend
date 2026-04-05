@@ -1,4 +1,4 @@
-bin/
+SecurityWebApi/bin/
 obj/
 .vs/
 *.user
