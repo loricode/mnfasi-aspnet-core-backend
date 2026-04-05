@@ -1,5 +1,5 @@
 /SecurityWebApi/bin/
-obj/
+/SecurityWebApi/obj/
 .vs/
 *.user
 *.suo
